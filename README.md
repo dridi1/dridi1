@@ -140,11 +140,8 @@ A technical engineering study focused on spray drying, atomization, thermodynami
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/dridi1?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-
-<img src="https://img.shields.io/github/stars/dridi1?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub stars" />
-
-<img src="https://komarev.com/ghpvc/?username=dridi1&style=for-the-badge&label=Profile%20Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/dridi1?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/dridi1?style=for-the-badge&logo=github&label=Stars" />
 
 </div>
 
