@@ -136,23 +136,15 @@ A technical engineering study focused on spray drying, atomization, thermodynami
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Overview
 
 <div align="center">
 
-![Dridi Slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dridi1&show_icons=true&theme=transparent&hide_border=true)
+<img src="https://img.shields.io/github/followers/dridi1?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dridi1&layout=compact&theme=transparent&hide_border=true)
+<img src="https://img.shields.io/github/stars/dridi1?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub stars" />
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dridi1&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+<img src="https://komarev.com/ghpvc/?username=dridi1&style=for-the-badge&label=Profile%20Views" alt="Profile views" />
 
 </div>
 
