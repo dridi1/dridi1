@@ -136,12 +136,11 @@ A technical engineering study focused on spray drying, atomization, thermodynami
 
 ---
 
-## 📈 GitHub Overview
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/dridi1?style=for-the-badge&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/dridi1?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://streak-stats.demolab.com?user=dridi1&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
 </div>
 
