@@ -1,107 +1,187 @@
-<h1 align="center">Hi 👋, I'm Dridi Slim</h1>
-<h3 align="center">Engineering student | Data & AI enthusiast | Building practical tools with Python, SQL and web technologies</h3>
+<div align="center">
+
+# Hi, I'm Dridi Slim 👋
+
+### Engineering Student · Data & AI Builder · Process & Industrial Systems Enthusiast
+
+I build practical tools that combine **AI**, **data**, **engineering**, and **clean user interfaces**.
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm an engineering student from Tunisia, interested in building useful technical solutions that connect **data, AI, industrial systems, and web applications**.
+I am an engineering student interested in creating technical solutions that are useful, reliable, and easy to use.
 
-I enjoy working on projects involving:
+My work focuses on combining **software engineering**, **data analysis**, **AI systems**, and **industrial engineering** to solve real problems.
 
-- 🤖 AI assistants and Retrieval-Augmented Generation systems
-- 📊 Data dashboards and decision-support tools
-- 🏭 Industrial engineering and process modelling
-- 🐍 Python automation, scraping, and data processing
-- 🌐 Simple and clean web interfaces
+I enjoy building projects around:
 
-Currently, I am working on projects related to **banking document search, RAG pipelines, dashboard design, and engineering calculations**.
+- AI assistants and Retrieval-Augmented Generation systems
+- Data dashboards and decision-support tools
+- Document processing and intelligent search
+- Industrial monitoring and process modelling
+- Python automation, scraping, and backend workflows
+- Clean web interfaces for technical applications
+
+---
+
+## 🚀 What I’m Working On
+
+### 🔎 Banking RAG Assistant
+
+A Retrieval-Augmented Generation system for banking and regulatory documents.
+
+**Includes:** scraping, document cleaning, metadata extraction, section-aware chunking, embeddings, dense retrieval, reranking, evaluation, and dashboard design.
+
+**Stack:** Python · RAG · Embeddings · Reranking · Document Processing · Evaluation
+
+---
+
+### 📊 Industrial Dashboards
+
+Dashboards connected to production databases for monitoring industrial KPIs.
+
+**Stack:** Grafana · SQL Server · Data Modelling · Industrial Monitoring
+
+---
+
+### 💳 Credit Risk Application
+
+A Shiny application for credit card default prediction and risk analysis.
+
+**Stack:** R · Shiny · Machine Learning · Credit Risk
+
+---
+
+### 🏭 Spray Dryer Engineering Study
+
+A technical engineering study focused on spray drying, atomization, thermodynamics, and process design.
+
+**Topics:** Mass Balance · Heat Transfer · Atomization · Drying Kinetics · Process Design
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![R](https://img.shields.io/badge/R-1f2937?style=for-the-badge&logo=r&logoColor=60A5FA)
 
 ### AI & Machine Learning
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1f2937?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Ollama](https://img.shields.io/badge/Ollama-1f2937?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1f2937?style=for-the-badge&logo=chainlink&logoColor=22C55E)
 
 ### Web & Dashboards
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1f2937?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Shiny](https://img.shields.io/badge/Shiny-1f2937?style=for-the-badge&logo=rstudio&logoColor=75AADB)
+![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=next.js&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-1f2937?style=for-the-badge&logo=grafana&logoColor=F46800)
 
----
+### Tools & Platforms
 
-## 🚀 Featured Projects
+![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1f2937?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Vercel](https://img.shields.io/badge/Vercel-1f2937?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🔎 Banking RAG Assistant
-A document-search and AI assistant project for banking and regulatory documents.  
-Focused on scraping, cleaning, chunking, embedding, retrieval evaluation, and reranking.
-
-**Main ideas:**  
-`RAG` · `Embeddings` · `Reranking` · `Document Processing` · `Python`
+</div>
 
 ---
 
-### 📊 Credit Card Default Prediction App
-An R Shiny application for predicting credit card default risk.
+## 📌 Featured Areas
 
-**Main ideas:**  
-`R` · `Shiny` · `Machine Learning` · `Credit Risk`
-
----
-
-### 🏭 Industrial Dashboarding
-Dashboards connected to SQL Server databases for monitoring production data and KPIs.
-
-**Main ideas:**  
-`Grafana` · `SQL Server` · `Industrial Data` · `Monitoring`
-
----
-
-### 🌡️ Spray Dryer Engineering Study
-Engineering calculations and modelling for spray drying and atomization processes.
-
-**Main ideas:**  
-`Process Engineering` · `Thermodynamics` · `Mass Balance` · `Heat Transfer`
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI & RAG Systems</h3>
+      <p>
+        Building document-based AI assistants with retrieval, embeddings,
+        reranking, evaluation, and clean user workflows.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📊 Data Dashboards</h3>
+      <p>
+        Creating dashboards for monitoring, analysis, reporting,
+        and decision support using real operational data.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏭 Engineering Systems</h3>
+      <p>
+        Working on industrial and process engineering topics such as
+        drying, atomization, thermodynamics, and production systems.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧩 Product Interfaces</h3>
+      <p>
+        Designing simple and clean interfaces for technical tools,
+        document workflows, dashboards, and AI applications.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dridi1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridi1&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dridi1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Dridi Slim GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridi1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dridi1&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🧭 Current Focus
+
+- Improving AI document search systems
+- Building better RAG evaluation pipelines
+- Designing clean dashboards and admin tools
+- Connecting engineering problems with software solutions
+- Learning how to ship more polished technical products
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/dridi1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-dridi1-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/dridi1">
+  <img src="https://img.shields.io/badge/GitHub-dridi1-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Always learning, building, and improving one project at a time.</i>
-</p>
+<div align="center">
+
+### “Build useful things. Improve them. Repeat.”
+
+</div>
